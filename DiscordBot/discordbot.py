@@ -116,4 +116,4 @@ async def on_message(message):
         await message.delete()
         await message.channel.send(f"{message.author.mention}, Do not use that word, or else you will get banned!")
 
-client.run('Nzk5NjkxNTk2MTYwODI3NDAy.YAHQ1g.Ed8Vz_yN4-dGbkYvNaun015-5Y0')
+client.run('#put your bot token here')
